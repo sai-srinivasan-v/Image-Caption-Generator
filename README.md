@@ -14,7 +14,7 @@ Python 3.x
 TensorFlow/Keras
 Usage:
 
-Clone the repository: git clone https://github.com/your-username/image-caption-generator.git
+Clone the repository: git clone https://github.com/sai-srinivasan-v/congenial-tribble.git
 Install dependencies: pip install -r requirements.txt
 Prepare your dataset: Preprocess your image-caption data and organize it into appropriate formats.
 Train the model: Run the provided script with your dataset paths and training parameters.
