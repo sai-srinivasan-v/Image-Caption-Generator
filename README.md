@@ -1,5 +1,5 @@
-# congenial-tribble
-Image Caption Generator with VGG16 and LSTM
+
+# Image Caption Generator with VGG16 and LSTM
 
 This repository implements an image caption generator model using VGG16 for feature extraction and LSTM for caption generation. It leverages the power of deep learning for automatic image description.
 
